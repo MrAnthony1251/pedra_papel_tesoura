@@ -1,4 +1,4 @@
-#### Pedra, Papel e Tesoura em Python ####
+### Pedra, Papel e Tesoura em Python ###
 
 
 ### Como Jogar:
